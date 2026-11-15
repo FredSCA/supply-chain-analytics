@@ -1,0 +1,15 @@
+# Datos (Nunca subas datasets pesados)
+*.csv
+*.xlsx
+data/
+
+# Entornos virtuales
+venv/
+env/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
