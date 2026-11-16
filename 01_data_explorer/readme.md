@@ -22,3 +22,10 @@ Evaluar la eficiencia operativa del almacén de tránsito respondiendo a tres pr
 
 * `01_exploratory_analysis.ipynb`: Notebook con la limpieza, cálculo de KPIs y visualizaciones.
 * *(Nota: El archivo Excel original no se incluye por políticas de privacidad y peso).*
+
+## 🔍 Vista previa de los datos (Antes vs. Después)
+Para demostrar el proceso de limpieza y selección de variables, se incluyen dos archivos con una muestra de 100 registros:
+*   [`muestra_datos_crudos.csv`](./muestra_datos_crudos.csv): Extracto directo del Excel original (incluye columnas vacías, fórmulas y errores de digitación en fechas).
+*   [`muestra_datos_limpios.csv`](./muestra_datos_limpios.csv): Extracto del dataset final, con variables seleccionadas, fechas validadas y registros anómalos eliminados.
+
+*(El dataset original completo no se incluye por razones de privacidad y tamaño).*
