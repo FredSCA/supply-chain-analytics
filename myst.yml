@@ -1,0 +1,13 @@
+version: 1
+project:
+  title: Supply Chain Analytics - Portafolio
+  authors:
+    - name: Freddy
+  toc:
+    - file: intro.md
+    - file: 01_data_explorer/01_exploratory_analysis.ipynb
+site:
+  template: book-theme
+  title: Supply Chain Analytics
+  options:
+    logo_text: Portafolio de Freddy
