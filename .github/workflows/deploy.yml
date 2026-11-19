@@ -8,7 +8,8 @@ permissions:
   contents: read
   pages: write
   id-token: write
-
+env:
+  BASE_URL: /${{ github.event.repository.name }}
 jobs:
   deploy:
     runs-on: ubuntu-latest
