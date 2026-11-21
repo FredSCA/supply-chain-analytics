@@ -1,4 +1,3 @@
-
 # 📚 Supply Chain Analytics
 
 Repositorio central de proyectos y soluciones analíticas aplicadas a la cadena de suministro. Este espacio contiene pipelines de datos, modelos predictivos y análisis exploratorios diseñados para optimizar la toma de decisiones y resolver problemas logísticos.
@@ -11,14 +10,8 @@ Repositorio central de proyectos y soluciones analíticas aplicadas a la cadena 
 * **Tecnologías:** Python, Pandas, NumPy, Matplotlib.
 * 👉 [Ver módulo](./01_data_explorer/)
 
-### Módulo 2: Recursos y Aprendizaje
+### Módulo 2: Machine Learning (Predicción de Volumen)
 
-* **Descripción:** Librería de recursos técnicos, visualizaciones clave y documentación de referencia.
-* 👉 [Ver módulo](./02_recursos/)
-
-## 🛠️ Stack Tecnológico
-
-* **Lenguajes:** Python 3.x
-* **Análisis de Datos:** Pandas, NumPy
-* **Visualización:** Matplotlib, Seaborn
-* **Control de Versiones:** Git, GitHub
+* **Descripción:** Desarrollo de un modelo predictivo (Random Forest) para estimar si un despacho será de gran o pequeño volumen, optimizando la planificación de transportes y la gestión de recursos logísticos.
+* **Tecnologías:** Python, Scikit-Learn, Pandas, NumPy, Seaborn.
+* 👉 [Ver módulo](./02_machine_learning/)
