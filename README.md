@@ -2,6 +2,10 @@
 
 Repositorio central de proyectos y soluciones analíticas aplicadas a la cadena de suministro. Este espacio contiene pipelines de datos, modelos predictivos y análisis exploratorios diseñados para optimizar la toma de decisiones y resolver problemas logísticos.
 
+🌐 **[Visita la versión web interactiva de este portafolio aquí](https://fredsca.github.io/supply-chain-analytics/)**
+
+**Contenido:** Data Exploration & Cleaning | Machine Learning | IA Generativa (LLMs)
+
 ## 📂 Índice del Proyecto
 
 ### Módulo 1: Data Explorer & Cleaner
